@@ -1,0 +1,14 @@
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bobrynja\SynologyDrive\Документы\learn\колледж\3 курс\практика\13 день\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\3 курс\практика\13 день_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
